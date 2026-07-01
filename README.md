@@ -1,16 +1,24 @@
 # web3-learning
-My journey learning Python and Web3 development.
-# Web3 Learning
+My journey learning Python and Web3 development
+# 🚀 Web3 Learning
 
-My journey learning Python and Web3 development.
+This repository documents my journey learning Python and Web3 development.
 
-## Currently Learning
-- Python
+## Current Skills
+- Python Basics
 - Git & GitHub
+
+## Learning Goals
 - APIs
 - Blockchain Fundamentals
+- Web3 Development
+- Smart Contracts
 
 ## Progress
-- [x] Python Basics
-- [ ] API
-- [ ] Web3
+
+- [x] Variables
+- [x] print()
+- [ ] if / else
+- [ ] loops
+- [ ] functions
+- [ ] API requests
