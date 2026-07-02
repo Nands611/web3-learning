@@ -19,9 +19,39 @@ This repository documents my journey learning Python and Web3 development.
 
 ## Progress
 
-- [x] Variables
-- [x] print()
-- [ ] if / else
-- [ ] loops
-- [ ] functions
-- [ ] API requests
+✅ Variables
+
+✅ print()
+
+✅ input()
+
+✅ Type Conversion (int())
+
+✅ Comparison Operators
+- ==
+- !=
+- >
+- <
+- >=
+- <=
+
+✅ Logical Operators
+- and
+- or
+- not
+
+✅ if / elif / else
+
+✅ while loops
+
+⬜ for loops
+
+⬜ functions
+
+⬜ lists
+
+⬜ dictionaries
+
+⬜ file handling
+
+⬜ API requests
