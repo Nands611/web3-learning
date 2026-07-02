@@ -1,9 +1,0 @@
-web3-learning/
-│
-├── main.py
-├── while/
-│   ├── while_count_up.py
-│   ├── while_count_down.py
-│   └── while_practice.py
-│
-└── README.md
