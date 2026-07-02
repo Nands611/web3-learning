@@ -6,6 +6,9 @@ This repository documents my journey learning Python and Web3 development.
 
 ## Current Skills
 - Python Basics
+- Conditional Statements
+- While Loops
+- Basic Problem Solving
 - Git & GitHub
 
 ## Learning Goals
